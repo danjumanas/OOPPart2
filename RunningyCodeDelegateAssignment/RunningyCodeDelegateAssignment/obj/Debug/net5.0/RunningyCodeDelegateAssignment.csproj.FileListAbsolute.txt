@@ -1,0 +1,16 @@
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\bin\Debug\net5.0\RunningyCodeDelegateAssignment.exe
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\bin\Debug\net5.0\RunningyCodeDelegateAssignment.deps.json
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\bin\Debug\net5.0\RunningyCodeDelegateAssignment.runtimeconfig.json
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\bin\Debug\net5.0\RunningyCodeDelegateAssignment.runtimeconfig.dev.json
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\bin\Debug\net5.0\RunningyCodeDelegateAssignment.dll
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\bin\Debug\net5.0\RunningyCodeDelegateAssignment.pdb
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.AssemblyInfo.cs
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.dll
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\refint\RunningyCodeDelegateAssignment.dll
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.pdb
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\RunningyCodeDelegateAssignment.genruntimeconfig.cache
+C:\Users\Support\Documents\C#\RunningyCodeDelegateAssignment\RunningyCodeDelegateAssignment\obj\Debug\net5.0\ref\RunningyCodeDelegateAssignment.dll

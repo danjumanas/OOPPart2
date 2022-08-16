@@ -1,0 +1,16 @@
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.csproj.AssemblyReference.cache
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.AssemblyInfoInputs.cache
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.AssemblyInfo.cs
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\bin\Debug\net5.0\EventsAssignment.exe
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\bin\Debug\net5.0\EventsAssignment.deps.json
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\bin\Debug\net5.0\EventsAssignment.runtimeconfig.json
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\bin\Debug\net5.0\EventsAssignment.runtimeconfig.dev.json
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\bin\Debug\net5.0\EventsAssignment.dll
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\bin\Debug\net5.0\EventsAssignment.pdb
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.dll
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\refint\EventsAssignment.dll
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.pdb
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\EventsAssignment.genruntimeconfig.cache
+C:\Users\Support\Documents\C#\EventsAssignment\EventsAssignment\obj\Debug\net5.0\ref\EventsAssignment.dll
